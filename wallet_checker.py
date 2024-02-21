@@ -1,6 +1,5 @@
 import threading
 import hashlib
-import binascii
 import random, string
 import blocksmith
 import requests
